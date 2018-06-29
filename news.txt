@@ -2,4 +2,3 @@
 -Added Dynamic Changelog
 -Created Updater for Launcher
 -Added Dynamic Status
-Тест русского
