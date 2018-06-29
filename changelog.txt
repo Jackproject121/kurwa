@@ -1,4 +1,4 @@
 [30.06.2018]
--Добавлен Ченжлог
--Сделан Updater для Лаунчера
--Сделан в Лаунчере Динамический статус
+-Added Dynamic Changelog
+-Created Updater for Launcher
+-Added Dynamic Status
