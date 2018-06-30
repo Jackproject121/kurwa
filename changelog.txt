@@ -1,4 +1,0 @@
-[30.06.2018]
--Added Dynamic Changelog
--Created Updater for Launcher
--Added Dynamic Status
