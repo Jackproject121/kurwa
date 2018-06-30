@@ -2,3 +2,5 @@
 -Added Dynamic Changelog
 -Created Updater for Launcher
 -Added Dynamic Status
+-Added Wire Smoke
+-Added type HpBars
